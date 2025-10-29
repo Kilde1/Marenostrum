@@ -50,12 +50,23 @@ OL7: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Peau_O
 
 OL8: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Peau_Oneshot_Frottements03.mp3
 
-CL1: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Coeur_Loop_OctobassRvb.mp3
+CL1: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Coeur_Loop_BlazingFire.mp3
 
-CL2: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Coeur_Loop_OctobassDrum.mp3
+CL2: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Coeur_Loop_FireCracks.mp3
 
-CL3: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Coeur_Loop_FireLight.mp3
+CL3: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Coeur_Loop_FireGrains.mp3
 
-CL4: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Coeur_Loop_FireCracks.mp3
+CL4: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Coeur_Loop_FireLight.mp3
+
+CL5: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Coeur_Loop_Normalfire.mp3
+
+CL6: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Coeur_Loop_Octobass.mp3
+
+CL7: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Coeur_Loop_OctobassDrum.mp3
+
+CL8: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Coeur_Loop_OctobassGrain.mp3
+
+CL4: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Coeur_Loop_OctobassRvb.mp3
+
 
 
