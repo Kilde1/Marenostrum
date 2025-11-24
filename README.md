@@ -34,6 +34,10 @@ LL2: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Lympha
 
 LL3: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Lymphatique_Loop_Voices.mp3
 
+LL4: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Lymphatique_Oneshot_Voices1.mp3
+
+LL5: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Lymphatique_Oneshot_Voices2.mp3
+
 OL1: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Peau_Loop_Roomtone01.mp3
 
 OL2: https://raw.githubusercontent.com/Kilde1/Marenostrum/refs/heads/main/Peau_Loop_Roomtone02.mp3
